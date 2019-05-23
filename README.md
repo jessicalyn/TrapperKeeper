@@ -21,7 +21,7 @@ Creating a new note             |  Deleting a note
 These instructions will get a copy of the project up and running on your local machine for usage and testing purposes.
 
 ### Frontend
-clone down the repo: ```$ git clone https://github.com/MRKrog/TrapperKeeper```
+clone down the repo: ```$ git clone https://github.com/jessicalyn/TrapperKeeper```
 
 cd into directory and run npm install: ```$ npm install```
 
@@ -36,9 +36,9 @@ launch in your browser: ``` $ npm start ```
 
 ## Future Development and Extensions Notes:
 
-- Fully keyboard navigation on note (ie. ability to press `Enter` to get to next line) \
-- Add drag and drop functionality for notes \
-- Add ability to search notes \
+- Fully keyboard navigation on note (ie. ability to press `Enter` to get to next line)
+- Add drag and drop functionality for notes
+- Add ability to search notes
 - Add ability to upload files or pictures to notes
 
 ### Technologies Used
